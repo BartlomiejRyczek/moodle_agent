@@ -39,7 +39,7 @@ NEW MESSAGE:
 
 Logujemy sie do https://aistudio.google.com w prawym górnym rogu kilkamy create API key, tworzymy nazwe i kopiujemy klucze.
 
-Nastepnie w repozytorium tworzymy plik .env według schematu ponizej i wpisujemy tam klucze, login do moodla, haslo do moodla.
+Nastepnie w repozytorium tworzymy plik .env według schematu ponizej i wpisujemy tam klucze, login do moodla, haslo do moodla, DEFAULT_CONTACT_NAME wpisujemy twoje imie i nazwisko.
 
 W `.env`:
 
@@ -48,7 +48,7 @@ login=...
 password=...
 api_key=...
 DEFAULT_STATE_PATH=.uek_chat_seen.json
-DEFAULT_CONVERSATION_ID=
+DEFAULT_CONVERSATION_ID=188786
 DEFAULT_CONTACT_NAME=
 DEFAULT_GEMINI_MODEL=gemini-3.5-flash
 MAX_RECENT_BOT_ANSWERS=8
