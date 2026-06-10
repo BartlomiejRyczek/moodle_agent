@@ -1,0 +1,5 @@
+.env
+.uek_chat_seen.json
+.venv/
+__pycache__/
+*.pyc
